@@ -158,8 +158,8 @@ title
 
 @media (max-width: 600px) {
   .item {
-    width: 70vw; /* Ajusta según sea necesario */
-    height: auto; /* Permitir que la altura se ajuste */
+    width: 70vw;
+    height: auto;
   }
 }
 </style>
